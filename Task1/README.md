@@ -17,9 +17,7 @@ This task showcases a mobile app signup flow designed in Figma. The interface pr
 ## Preview
 The design files available in this folder are:
 
-- 1-Welcome.png
-- 2-Login.png
-- 3-Register.png
+- 1-WELCOME.png
+- 2-LOGIN.png
+- 3-REGISTER.png
 
-## Screen Recording
-- 4-Screen recording.mp4
