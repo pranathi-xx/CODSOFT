@@ -19,7 +19,7 @@ This task showcases a modern restaurant menu UI designed in Figma. The interface
 ## Preview
 The design files available in this folder are:
 
-- Splash Screen.jpg
-- Welcome Screen.jpg
-- Home Screen.jpg
-- Food Details Screen.jpg
+- SPLASH SCREEN.jpg
+- WELCOME SCREEN.jpg
+- HOME SCREEN.jpg
+- FOOD DETAILS SCREEN.jpg
