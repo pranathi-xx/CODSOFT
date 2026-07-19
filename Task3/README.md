@@ -1,32 +1,25 @@
-# Task 3 - Restaurant Menu UI
-
-This folder contains the UI/UX design for Task 3.
+# Task 3 – Restaurant Menu UI
 
 ## Description
-
-This task showcases a modern restaurant menu application designed in Figma. The interface provides an attractive and user-friendly experience, allowing users to browse food items, view special offers, and explore detailed information about each dish.
+This task showcases a modern restaurant menu UI designed in Figma. The interface provides a clean and user-friendly experience for browsing menu items, exploring special offers, and viewing detailed information about dishes.
 
 ## Features
-
-- Splash Screen
-- Welcome Screen
-- Home Screen
-- Food Details Screen
+- Splash screen
+- Welcome screen
+- Home screen
+- Food details screen
 - Modern and clean UI
-- Attractive food menu layout
-- Special offers section
 - Easy navigation
+- Attractive food menu layout
+- Promotional offers section
 
 ## Tools Used
-
 - Figma
 
-## Files
-
-- Restaurant Menu UI Design
-- Screen Recording
-- README.md
-
 ## Preview
+The design files available in this folder are:
 
-The Restaurant Menu UI is designed with a clean and modern layout, featuring food categories, promotional offers, and detailed dish information to provide an engaging user experience.
+- Splash Screen.jpg
+- Welcome Screen.jpg
+- Home Screen.jpg
+- Food Details Screen.jpg
